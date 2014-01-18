@@ -1,0 +1,16 @@
+{
+  "name": "echojson",
+  "version": "0.0.1",
+  "description": "Echo back json from URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "echo",
+    "http",
+    "json"
+  ],
+  "author": "Johannes Boyne <johannes@boyne.de>",
+  "license": "MIT"
+}
