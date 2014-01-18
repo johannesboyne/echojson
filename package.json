@@ -11,6 +11,10 @@
     "http",
     "json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johannesboyne/echojson.git"
+  },
   "author": "Johannes Boyne <johannes@boyne.de>",
   "license": "MIT"
 }
